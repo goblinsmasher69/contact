@@ -3,7 +3,7 @@
 body{
     margin: 0;
     font-family: 'Lexend',sans-serif;
-    background-color: #323230;
+    background-color: #323232;
 }
 
 main{
@@ -16,13 +16,15 @@ main{
     padding: 30px 60px;
 }
 
+.header nav h1{
+    display: inline;
+    width:100%;
+    text-align: center !important;
+    color: #aaaaaa;
+}
+
 .header nav a{
     margin-right: 20px;
     text-decoration: none;
-    color: #a8a8a8;
-}
-
-.header nav h1{
-    color: #a8a8a8;
-    text-align: center;
+    color: #aaaaaa;
 }
